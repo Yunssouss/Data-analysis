@@ -1,0 +1,6 @@
+
+    'Month': ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+    'Sales': [150, 200, 180, 250, 220, 210, 190, 230, 210, 240, 280, 300],
+    'Product Category': ['A', 'A', 'B', 'A', 'B', 'B', 'C', 'C', 'A', 'B', 'C', 'A'],
+    'Profit': [50, 80, 60, 100, 90, 85, 75, 95, 80, 110, 130, 150]
+
